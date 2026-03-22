@@ -10,7 +10,7 @@ I've been running Zoho One at Fen X Custom for over a year now. Not as a demo or
 
 [Fen X Custom Inc](https://fenxcustom.com) officially started in late 2024 with a 3D printer, a client only iOS application, and nothing in the way of IT infrastructure. We knew we had to focus on building a system for selling and delivering completely custom ear buds.
 
-![Zoho One — Category Overview](https://fenxcustom.com/cdn/shop/files/article-zoho-one-01-zoho-categories.png)
+![Zoho One — Category Overview](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-01-zoho-categories.png)
 
 *Figure 1: Zoho One — Category Overview / credit: Michael Sick / Claude/Python/PIL*
 
@@ -24,7 +24,7 @@ While we support basic customization by purpose (swimming, hearing protection, a
 
 Fen X delivers this level of customization using a customized E-Commerce experience, an Ear Scanning App (iOS only, Android this summer!), and a set of integrated Backend and ERP level functions shown below.
 
-![Fen X Custom — System Context](https://fenxcustom.com/cdn/shop/files/article-zoho-one-02-fenx-system.png)
+![Fen X Custom — System Context](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-02-fenx-system.png)
 
 *Figure 3: Fen X Custom — System Context / credit: Michael Sick / Claude/Python/PIL*
 
@@ -54,7 +54,7 @@ As big of a deal as it was to satisfy our core needs, we also did not want to sp
 
 For Fen X, we require all of these systems to work, but none of them are differentiating for our business. For a consultancy, Zoho Show is unlikely to replace PowerPoint where slide decks are an end deliverable. For Fen X, we just need to put together a slide deck to get some ideas across (unless we're fundraising, then we use PowerPoint).
 
-![Zoho One — Application Map](https://fenxcustom.com/cdn/shop/files/article-zoho-one-03-zoho-apps.png)
+![Zoho One — Application Map](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-03-zoho-apps.png)
 
 *Figure 4: Zoho One — Application Map (✓ = modules Fen X runs) / credit: Michael Sick / Claude/Python/PIL*
 
@@ -87,7 +87,7 @@ While I'm going to score some of our experiences with Zoho, I figured it would b
 
 Would I take us down the Zoho One path again, knowing what I know now? Yes, but likely with some adjustment. I'm hoping that Zoho gets to the fixes before we get the chance to make changes. Details below. With adjustments, our top level architecture is:
 
-![Fen X Custom — Technology Architecture](https://fenxcustom.com/cdn/shop/files/article-zoho-one-04-fenx-tech.png)
+![Fen X Custom — Technology Architecture](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-04-fenx-tech.png)
 
 *Figure 5: Fen X Custom — Technology Architecture / credit: Michael Sick / Claude/Python/PIL*
 
@@ -95,7 +95,7 @@ Would I take us down the Zoho One path again, knowing what I know now? Yes, but 
 
 Four categories, each scored 1-5:
 
-![The Scoring System](https://fenxcustom.com/cdn/shop/files/article-zoho-one-05-score-system.png)
+![The Scoring System](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-05-score-system.png)
 
 *Figure 6: The Scoring System / credit: Michael Sick / Claude/Python/PIL*
 
@@ -112,7 +112,7 @@ Four categories, each scored 1-5:
 
 Inventory and Books are tightly integrated. It makes sense to score them together.
 
-![Zoho Inventory & Books Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-06-score-inventory.png)
+![Zoho Inventory & Books Score](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-06-score-inventory.png)
 
 *Figure 7: Zoho Inventory & Books Score / credit: Michael Sick / Claude/Python/PIL*
 
@@ -130,7 +130,7 @@ The custom field limitations deserve their own post — and they're getting one.
 
 Zoho Commerce is a newer product, just on its 2.0 version. Commerce is not mature and we quickly found we could not customize the cart add / checkout experience for our needs. I hope to do a specific article on how we created a custom shopping experience in Shopify and better show the gaps we found in Zoho Commerce at that time.
 
-![Zoho Commerce Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-07-score-commerce.png)
+![Zoho Commerce Score](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-07-score-commerce.png)
 
 *Figure 8: Zoho Commerce Score / credit: Michael Sick / Claude/Python/PIL*
 
@@ -144,7 +144,7 @@ Zoho Commerce is a newer product, just on its 2.0 version. Commerce is not matur
 
 ## Zoho Sprints — 13/20
 
-![Zoho Sprints Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-08-score-sprints.png)
+![Zoho Sprints Score](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-08-score-sprints.png)
 
 *Figure 9: Zoho Sprints Score / credit: Michael Sick / Claude/Python/PIL*
 
@@ -158,7 +158,7 @@ I wouldn't recommend Sprints for a fifty-person engineering org. For a startup w
 
 ## Zoho Office Suite (Writer, Sheet, Show) — 12/20
 
-![Zoho Office Suite Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-09-score-office.png)
+![Zoho Office Suite Score](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-09-score-office.png)
 
 *Figure 10: Zoho Office Suite Score / credit: Michael Sick / Claude/Python/PIL*
 
@@ -174,7 +174,7 @@ If we had sophisticated needs for these tools, we'd need to switch. We don't, so
 
 ## Zoho CRM + Desk — 16/20
 
-![Zoho CRM + Desk Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-10-score-crm.png)
+![Zoho CRM + Desk Score](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-10-score-crm.png)
 
 *Figure 11: Zoho CRM + Desk Score / credit: Michael Sick / Claude/Python/PIL*
 
@@ -192,7 +192,7 @@ For a small manufacturing company, we're using maybe a quarter of CRM's capabili
 
 This is the only module we're actively removing from our solution.
 
-![Zoho Flow Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-11-score-flow.png)
+![Zoho Flow Score](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-11-score-flow.png)
 
 *Figure 12: Zoho Flow Score / credit: Michael Sick / Claude/Python/PIL*
 
@@ -216,7 +216,7 @@ Flow may work for organizations with simple use cases or that are fully committe
 
 ## The Scorecard
 
-![The Scorecard](https://fenxcustom.com/cdn/shop/files/article-zoho-one-12-score-summary.png)
+![The Scorecard](https://mikeasick-fennec.github.io/github-articles-public/assets/zoho-one-works-and-needs-work/article-zoho-one-12-score-summary.png)
 
 *Figure 13: The Scorecard / credit: Michael Sick / Claude/Python/PIL*
 
