@@ -2,8 +2,7 @@
 
 I've been running Zoho One at Fen X Custom for over a year now. Not as a demo or a pilot — as the actual backbone of a smart manufacturing startup. I've been mentally drafting this article in one form or another for 9 months now. Sometimes I've been drafting because of product satisfaction, other times it's been because of frustration. But today, I'm finishing this up to help organizations considering Zoho One make an informed decision. I wrote this as the guide I wish that I had when we evaluated Zoho One.
 
-![Zoho One — Category Overview](https://fenxcustom.com/cdn/shop/files/article-zoho-one-01-zoho-categories.png)
-*Figure 1: Zoho One — Category Overview*
+![1](https://fenxcustom.com/cdn/shop/files/article-zoho-one-01-zoho-categories.png)
 
 ## Fen X Custom's Motivations for Selecting Zoho One
 
@@ -19,8 +18,7 @@ While we support basic customization by purpose (swimming, hearing protection, a
 Fen X delivers this level of customization using a customized E-Commerce experience, an Ear Scanning App (iOS only, Android this summer!), and a set of integrated Backend and ERP level functions shown below.
 
 
-![Fen X Custom — System Context](https://fenxcustom.com/cdn/shop/files/article-zoho-one-02-fenx-system.png)
-*Figure 2: Fen X Custom — System Context*
+![2](https://fenxcustom.com/cdn/shop/files/article-zoho-one-02-fenx-system.png)
 
 ### What Did This Mean for Our Systems?
 
@@ -49,8 +47,7 @@ As big of a deal as it was to satisfy our core needs, we also did not want to sp
 For Fen X, we require all of these systems to work, but none of them are differentiating for our business. For a consultancy, Zoho Show is unlikely to replace PowerPoint where slide decks are an end deliverable. For Fen X, we just need to put together a slide deck to get some ideas across (unless we're fundraising, then we use PowerPoint).
 
 
-![Zoho One — Application Map](https://fenxcustom.com/cdn/shop/files/article-zoho-one-03-zoho-apps.png)
-*Figure 3: Zoho One — Application Map*
+![3](https://fenxcustom.com/cdn/shop/files/article-zoho-one-03-zoho-apps.png)
 
 ### So How Did We Get to Zoho? The Price ($$)
 
@@ -82,15 +79,11 @@ While I'm going to score some of our experiences with Zoho, I figured it would b
 Would I take us down the Zoho One path again, knowing what I know now? Yes, but likely with some adjustment. I'm hoping that Zoho gets to the fixes before we get the chance to make changes. Details below. With adjustments, our top level architecture is:
 
 
-![Fen X Custom — Technology Architecture](https://fenxcustom.com/cdn/shop/files/article-zoho-one-04-fenx-tech.png)
-*Figure 4: Fen X Custom — Technology Architecture*
+![4](https://fenxcustom.com/cdn/shop/files/article-zoho-one-04-fenx-tech.png)
 
 ## The Scoring System
 
 Four categories, each scored 1-5:
-
-![The Scoring System](https://fenxcustom.com/cdn/shop/files/article-zoho-one-05-score-system.png)
-*Figure 5: The Scoring System*
 
 
 **Categories:**
@@ -102,12 +95,11 @@ Four categories, each scored 1-5:
 
 ---
 
+![5](https://fenxcustom.com/cdn/shop/files/article-zoho-one-05-score-system.png)
+
 ## Zoho Inventory & Books — 16/20
 
 Inventory and Books are tightly integrated. It makes sense to score them together.
-
-![Zoho Inventory & Books Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-06-score-inventory.png)
-*Figure 6: Zoho Inventory & Books Score*
 
 
 **Functionality** is solid — we've been able to customize everything we need for selling highly customized product. Immutable custom fields creates a significant gap because you cannot change their API level name or their data type. Zoho does not even support non-breaking data type changes (i.e. from string menu item to general string). This has produced a set of "dead" custom fields that we need to relabel and document. Over time, this "cruft" will need a solution.
@@ -120,10 +112,9 @@ Inventory and Books are tightly integrated. It makes sense to score them togethe
 
 The custom field limitations deserve their own post — and they're getting one. The short version: you can't rename them, you can't delete them without losing data, and you can't change data types. Plan your field design carefully on day one, because you're living with it.
 
-## Zoho Commerce — 12/20
+![6](https://fenxcustom.com/cdn/shop/files/article-zoho-one-06-score-inventory.png)
 
-![Zoho Commerce Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-07-score-commerce.png)
-*Figure 7: Zoho Commerce Score*
+## Zoho Commerce — 12/20
 
 Zoho Commerce is a newer product, just on its 2.0 version. Commerce is not mature and we quickly found we could not customize the cart add / checkout experience for our needs. I hope to do a specific article on how we created a custom shopping experience in Shopify and better show the gaps we found in Zoho Commerce at that time.
 
@@ -136,10 +127,9 @@ Zoho Commerce is a newer product, just on its 2.0 version. Commerce is not matur
 
 **Performance** — Performance seemed fine in our tests, though we did not put it through any scaling stresses.
 
-## Zoho Sprints
+![7](https://fenxcustom.com/cdn/shop/files/article-zoho-one-07-score-commerce.png)
 
-![Zoho Sprints Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-08-score-sprints.png)
-*Figure 8: Zoho Sprints Score* — 13/20
+## Zoho Sprints — 13/20
 
 
 **Functionality** Sprints has most of what you'd need. If you're used to Jira, it'll be a step back — but that's scale and needs, not a defect. For a small dev team it works well. We haven't hit anything we can't do via API. Our integration runs through standard GitHub-Sprints connections, which work reliably.
@@ -150,10 +140,9 @@ Zoho Commerce is a newer product, just on its 2.0 version. Commerce is not matur
 
 I wouldn't recommend Sprints for a fifty-person engineering org. For a startup with three to five developers, it does the job without getting in the way.
 
-## Zoho Office Suite
+![8](https://fenxcustom.com/cdn/shop/files/article-zoho-one-08-score-sprints.png)
 
-![Zoho Office Suite Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-09-score-office.png)
-*Figure 9: Zoho Office Suite Score* (Writer, Sheet, Show) — 12/20
+## Zoho Office Suite (Writer, Sheet, Show) — 12/20
 
 
 **Functionality** There are serious gaps versus Google and Microsoft equivalents. Sheets lacks a strong tabular interface and SQL mode. Less technical users find them hard to navigate. Zoho Show — the PowerPoint equivalent — is primitive. I can't see a management consultancy using it successfully. We're a manufacturing company — our presentations are internal or fundraising, and we do those in PowerPoint.
@@ -166,10 +155,7 @@ I wouldn't recommend Sprints for a fifty-person engineering org. For a startup w
 
 If we had sophisticated needs for these tools, we'd need to switch. We don't, so we stay. The value is suite simplicity, not tool excellence.
 
-## Zoho CRM + Desk
-
-![Zoho CRM + Desk Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-10-score-crm.png)
-*Figure 10: Zoho CRM + Desk Score* — 16/20
+## Zoho CRM + Desk — 16/20
 
 
 **Functionality** CRM is probably Zoho's most mature product, and it shows. It's done everything we've asked it to. There's more complexity than we'd like, but we know there are lower-complexity configurations available. As we scale, we'll be driving more complex B2B support scenarios.
@@ -183,9 +169,6 @@ For a small manufacturing company, we're using maybe a quarter of CRM's capabili
 **Performance** of the CRM/Desk has been adequate, no issues but we are not operating at scale.
 
 ## Zoho Flow — 9/20
-
-![Zoho Flow Score](https://fenxcustom.com/cdn/shop/files/article-zoho-one-11-score-flow.png)
-*Figure 11: Zoho Flow Score*
 
 This is the only module we're actively removing from our solution.
 
@@ -209,9 +192,6 @@ Flow may work for organizations with simple use cases or that are fully committe
 ---
 
 ## The Scorecard
-
-![The Scorecard](https://fenxcustom.com/cdn/shop/files/article-zoho-one-12-score-summary.png)
-*Figure 12: The Scorecard*
 
 
 ## Additional Notes
