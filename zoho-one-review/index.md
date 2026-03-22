@@ -4,6 +4,7 @@ I've been running Zoho One at Fen X Custom for over a year now. Not as a demo or
 
 ![1](https://fenxcustom.com/cdn/shop/files/article-zoho-one-01-zoho-categories.png)
 
+STRIP ME
 INSERT Figure 1: Zoho One — Category Overview
 
 
@@ -18,6 +19,7 @@ While we support basic customization by purpose (swimming, hearing protection, a
 
 ![Earbuds](https://fenxcustom.com/cdn/shop/files/acoustic-both-halfshell-black-alt_CIHFBK1WO41B-03.jpg?v=1772903182&width=360)
 
+STRIP ME
 INSERT Figure 2: Fen X Custom — Acoustic Earbuds
 
 
@@ -28,6 +30,7 @@ Fen X delivers this level of customization using a customized E-Commerce experie
 
 ![2](https://fenxcustom.com/cdn/shop/files/article-zoho-one-02-fenx-system.png)
 
+STRIP ME
 INSERT Figure 3: Fen X Custom — System Context
 
 
@@ -60,6 +63,7 @@ For Fen X, we require all of these systems to work, but none of them are differe
 
 ![3](https://fenxcustom.com/cdn/shop/files/article-zoho-one-03-zoho-apps.png)
 
+STRIP ME
 INSERT Figure 4: Zoho One — Application Map
 
 
@@ -95,6 +99,7 @@ Would I take us down the Zoho One path again, knowing what I know now? Yes, but 
 
 ![4](https://fenxcustom.com/cdn/shop/files/article-zoho-one-04-fenx-tech.png)
 
+STRIP ME
 INSERT Figure 5: Fen X Custom — Technology Architecture
 
 
@@ -114,6 +119,7 @@ Four categories, each scored 1-5:
 
 ![5](https://fenxcustom.com/cdn/shop/files/article-zoho-one-05-score-system.png)
 
+STRIP ME
 INSERT Figure 6: The Scoring System
 
 
@@ -134,6 +140,7 @@ The custom field limitations deserve their own post — and they're getting one.
 
 ![6](https://fenxcustom.com/cdn/shop/files/article-zoho-one-06-score-inventory.png)
 
+STRIP ME
 INSERT Figure 7: Zoho Inventory & Books Score
 
 
@@ -152,6 +159,7 @@ Zoho Commerce is a newer product, just on its 2.0 version. Commerce is not matur
 
 ![7](https://fenxcustom.com/cdn/shop/files/article-zoho-one-07-score-commerce.png)
 
+STRIP ME
 INSERT Figure 8: Zoho Commerce Score
 
 
@@ -168,6 +176,7 @@ I wouldn't recommend Sprints for a fifty-person engineering org. For a startup w
 
 ![8](https://fenxcustom.com/cdn/shop/files/article-zoho-one-08-score-sprints.png)
 
+STRIP ME
 INSERT Figure 9: Zoho Sprints Score
 
 
@@ -186,6 +195,7 @@ If we had sophisticated needs for these tools, we'd need to switch. We don't, so
 
 ![9](https://fenxcustom.com/cdn/shop/files/article-zoho-one-09-score-office.png)
 
+STRIP ME
 INSERT Figure 10: Zoho Office Suite Score
 
 
@@ -204,11 +214,13 @@ For a small manufacturing company, we're using maybe a quarter of CRM's capabili
 
 ![10](https://fenxcustom.com/cdn/shop/files/article-zoho-one-10-score-crm.png)
 
+STRIP ME
 INSERT Figure 11: Zoho CRM + Desk Score
 
 
 ## Zoho Flow — 9/20
 
+STRIP ME
 INSERT Figure 12: Zoho Flow Score (score-flow.png)
 
 
@@ -235,6 +247,7 @@ Flow may work for organizations with simple use cases or that are fully committe
 
 ## The Scorecard
 
+STRIP ME
 INSERT Figure 13: The Scorecard (score-summary.png)
 
 
