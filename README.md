@@ -1,1 +1,1 @@
-# Blog Articles\n\nHosted versions of blog posts for Medium import.\nImages referenced by full GitHub URLs.
+Public location for articles authored by Michael Sick @ fenxcustom.com
