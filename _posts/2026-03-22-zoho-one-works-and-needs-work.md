@@ -1,4 +1,8 @@
-# What Works and What Needs Work in the Zoho One Product Suite
+---
+layout: post
+title: "What Works and What Needs Work in the Zoho One Product Suite"
+date: 2026-03-22
+---
 
 I've been running Zoho One at Fen X Custom for over a year now. Not as a demo or a pilot — as the actual backbone of a smart manufacturing startup. I've been mentally drafting this article in one form or another for 9 months now. Sometimes I've been drafting because of product satisfaction, other times it's been because of frustration. But today, I'm finishing this up to help organizations considering Zoho One make an informed decision. I wrote this as the guide I wish that I had when we evaluated Zoho One.
 
@@ -153,7 +157,7 @@ I wouldn't recommend Sprints for a fifty-person engineering org. For a startup w
 
 **API Completeness** Fen X has found the API adequate but we haven't driven it far.
 
-**Support** for the Office products hasn't been great — we've had to self-support to get answers in a timely fashion. Often tickets are not responded to or are not responded to in a timely fashion. 
+**Support** for the Office products hasn't been great — we've had to self-support to get answers in a timely fashion. Often tickets are not responded to or are not responded to in a timely fashion.
 
 **Performance** is fine overall, though Sheet formula performance gets sluggish on larger workbooks.
 

@@ -1,0 +1,7 @@
+title: Michael Sick — Articles
+description: Technology leadership insights from a CTO building at the intersection of software and smart manufacturing.
+baseurl: /github-articles-public
+url: https://mikeasick-fennec.github.io
+
+plugins:
+  - jekyll-feed
