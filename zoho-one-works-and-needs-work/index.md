@@ -3,7 +3,6 @@
 I've been running Zoho One at Fen X Custom for over a year now. Not as a demo or a pilot — as the actual backbone of a smart manufacturing startup. I've been mentally drafting this article in one form or another for 9 months now. Sometimes I've been drafting because of product satisfaction, other times it's been because of frustration. But today, I'm finishing this up to help organizations considering Zoho One make an informed decision. I wrote this as the guide I wish that I had when we evaluated Zoho One.
 
 ![1](https://fenxcustom.com/cdn/shop/files/article-zoho-one-01-zoho-categories.png)
-*Figure 1: Zoho One — Category Overview*
 
 ## Fen X Custom's Motivations for Selecting Zoho One
 
@@ -15,7 +14,6 @@ I've been running Zoho One at Fen X Custom for over a year now. Not as a demo or
 While we support basic customization by purpose (swimming, hearing protection, acoustic, ...), and type (full shell, half shell, 3/4 shell, ...) and color, we hyper personalize by fit. We do this by taking a scan of your outer ear and making a highly accurate prediction about your inner ear, to produce an ear bud that is custom to your ear. The [Acoustic ](https://fenxcustom.com/collections/music/products/acoustic)earbuds featured below are custom to the user based on their scan. With fit confirmed, they fit the users ears specifically and with a level of comfort that universal tips can't match.
 
 ![Earbuds](https://fenxcustom.com/cdn/shop/files/acoustic-both-halfshell-black-alt_CIHFBK1WO41B-03.jpg?v=1772903182&width=360)
-*Figure 2: Fen X Custom — Acoustic Earbuds*
 
 
 
@@ -23,7 +21,6 @@ Fen X delivers this level of customization using a customized E-Commerce experie
 
 
 ![2](https://fenxcustom.com/cdn/shop/files/article-zoho-one-02-fenx-system.png)
-*Figure 3: Fen X Custom — System Context*
 
 ### What Did This Mean for Our Systems?
 
@@ -53,7 +50,6 @@ For Fen X, we require all of these systems to work, but none of them are differe
 
 
 ![3](https://fenxcustom.com/cdn/shop/files/article-zoho-one-03-zoho-apps.png)
-*Figure 4: Zoho One — Application Map*
 
 ### So How Did We Get to Zoho? The Price ($$)
 
@@ -86,7 +82,6 @@ Would I take us down the Zoho One path again, knowing what I know now? Yes, but 
 
 
 ![4](https://fenxcustom.com/cdn/shop/files/article-zoho-one-04-fenx-tech.png)
-*Figure 5: Fen X Custom — Technology Architecture*
 
 ## The Scoring System
 
@@ -103,7 +98,6 @@ Four categories, each scored 1-5:
 ---
 
 ![5](https://fenxcustom.com/cdn/shop/files/article-zoho-one-05-score-system.png)
-*Figure 6: The Scoring System*
 
 ## Zoho Inventory & Books — 16/20
 
@@ -121,7 +115,6 @@ Inventory and Books are tightly integrated. It makes sense to score them togethe
 The custom field limitations deserve their own post — and they're getting one. The short version: you can't rename them, you can't delete them without losing data, and you can't change data types. Plan your field design carefully on day one, because you're living with it.
 
 ![6](https://fenxcustom.com/cdn/shop/files/article-zoho-one-06-score-inventory.png)
-*Figure 7: Zoho Inventory & Books Score*
 
 ## Zoho Commerce — 12/20
 
@@ -137,7 +130,6 @@ Zoho Commerce is a newer product, just on its 2.0 version. Commerce is not matur
 **Performance** — Performance seemed fine in our tests, though we did not put it through any scaling stresses.
 
 ![7](https://fenxcustom.com/cdn/shop/files/article-zoho-one-07-score-commerce.png)
-*Figure 8: Zoho Commerce Score*
 
 ## Zoho Sprints — 13/20
 
@@ -151,7 +143,6 @@ Zoho Commerce is a newer product, just on its 2.0 version. Commerce is not matur
 I wouldn't recommend Sprints for a fifty-person engineering org. For a startup with three to five developers, it does the job without getting in the way.
 
 ![8](https://fenxcustom.com/cdn/shop/files/article-zoho-one-08-score-sprints.png)
-*Figure 9: Zoho Sprints Score*
 
 ## Zoho Office Suite (Writer, Sheet, Show) — 12/20
 
@@ -167,7 +158,6 @@ I wouldn't recommend Sprints for a fifty-person engineering org. For a startup w
 If we had sophisticated needs for these tools, we'd need to switch. We don't, so we stay. The value is suite simplicity, not tool excellence.
 
 ![9](https://fenxcustom.com/cdn/shop/files/article-zoho-one-09-score-office.png)
-*Figure 10: Zoho Office Suite Score*
 
 ## Zoho CRM + Desk — 16/20
 
@@ -183,12 +173,10 @@ For a small manufacturing company, we're using maybe a quarter of CRM's capabili
 **Performance** of the CRM/Desk has been adequate, no issues but we are not operating at scale.
 
 ![10](https://fenxcustom.com/cdn/shop/files/article-zoho-one-10-score-crm.png)
-*Figure 11: Zoho CRM + Desk Score*
 
 ## Zoho Flow — 9/20
 
 INSERT IMAGE (score-flow.png) here
-*Figure 12: Zoho Flow Score*
 
 This is the only module we're actively removing from our solution.
 
@@ -214,7 +202,6 @@ Flow may work for organizations with simple use cases or that are fully committe
 ## The Scorecard
 
 INSERT IMAGE (score-summary.png) here
-*Figure 13: The Scorecard*
 
 
 ## Additional Notes
